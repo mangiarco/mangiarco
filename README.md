@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src='https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg' />
 <!--
 **mangiarco/mangiarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
