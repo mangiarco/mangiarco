@@ -1,8 +1,8 @@
 <img src='https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg' />
-
+<!--
 ### 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mariadb,bigquery,python,pandas,numpy,r,julia,html,css,json,git,googleanalytics,excel,looker,tableau)
-<!--
+
 **mangiarco/mangiarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
